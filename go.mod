@@ -1,4 +1,4 @@
-module github.com/geirom/rel-test-docsy
+module github.com/geriom/rel-test-docsy
 
 go 1.12
 
