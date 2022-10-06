@@ -1,4 +1,4 @@
-module github.com/google/docsy/dependencies
+module github.com/geriom/rel-test-docsy/dependencies
 
 go 1.12
 
